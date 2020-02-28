@@ -47,17 +47,6 @@ export default {
       }
     }
   }
-  // beforeCreate() {
-  //   axios
-  //     .get("/users", {
-  //       params: {
-  //         //email: "Chaim_McDermott@dana.io"
-  //       }
-  //     })
-  //     .then(res => {
-  //       this.users = res.data;
-  //     });
-  // }
 };
 </script>
 
